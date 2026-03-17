@@ -1,26 +1,29 @@
 #profile-title: ЧЁРНЫЕ/БЕЛЫЕ СПИСКИ
-#announce: серверов: 13. Последнее обновление: 2026.03.17 12:43
+#announce: серверов: 18. Последнее обновление: 2026.03.17 13:24
 
 ss://bm9uZTox@0.0.0.0:1#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%91%87+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B4%D0%BB%D1%8F+Wi-Fi
 vless://240896ae-3416-4731-b2ba-b4a221e8d174@144.31.234.212:29121?type=tcp&encryption=none&security=reality&pbk=gVoduBbSjfbOWWIO4rqJv8kc8XgtE1_GZf3OfUhhhX8&fp=chrome&sni=max.ru&sid=8e&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B3%D0%B3%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B.%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BA%20%D0%94%D0%B8%D0%BC%D1%8B
 ss://bm9uZTox@0.0.0.0:1#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%91%87+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B4%D0%BB%D1%8F+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA
 
-vless://a56f1bf7-e63f-0001-9012-9b3b3275f0cc@pro-de.emrata.top:753?security=reality&type=tcp&sni=www.amd.com&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇩🇪Фашисты ⚡ авто (284ms)
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@51.250.90.142:2443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ads.x5.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=66c17371#🇷🇺ГойдаZoV ⚡ авто (147ms)
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.15:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#🇺🇸Пендосы ⚡ авто (385ms)
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@95.163.208.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=random&pbk=g_CJpYLqRg7bpisGdpQ5bt6uajJ-UT7-4HKuvyswiBo&sid=5e233d20d580f6ed&packetEncoding=xudp#🇷🇺ГойдаZoV ⚡ авто (119ms)
 
-vless://a56f1bf7-e63f-0001-9012-9b3b3275f0cc@pro-de.emrata.top:753?security=reality&type=tcp&sni=www.amd.com&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇩🇪Фашисты
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.15:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#🇺🇸Пендосы
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.165:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#🇺🇸Пендосы
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#🇺🇸Пендосы
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.68:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#🇺🇸Пендосы
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.163:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=zgtwylnhh.cc.cd&fp=chrome&sni=zgtwylnhh.cc.cd#🇺🇸Пендосы
 
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.18.69:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&spx=%2F&sid=6ba85179e30d4fc2#🇳🇱Ниггерланды
-
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F&host=azadnet-1ml.pages.dev&sni=azadnet-1ml.pages.dev#🇺🇸Пендосы
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇺🇸Пендосы
-
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@95.163.208.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=random&pbk=g_CJpYLqRg7bpisGdpQ5bt6uajJ-UT7-4HKuvyswiBo&sid=5e233d20d580f6ed&packetEncoding=xudp#🇷🇺ГойдаZoV
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@51.250.90.142:2443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ads.x5.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=66c17371#🇷🇺ГойдаZoV
-vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#🇷🇺ГойдаZoV
-vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&packetEncoding=xudp#🇷🇺ГойдаZoV
 vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&sni=ads.x5.ru#🇷🇺ГойдаZoV
-vless://29aab552-bfbb-0578-b22a-9a9c58c84811@84.23.52.105:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺ГойдаZoV
+vless://65259548-1d98-07d0-a7f9-1937927c68e9@109.120.188.201:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&fp=chrome#🇷🇺ГойдаZoV
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn6.api-rutube.ru:443?type=tcp&encryption=none#🇷🇺ГойдаZoV
+vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@51.250.90.142:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&packetEncoding=xudp#🇷🇺ГойдаZoV
+vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺ГойдаZoV
 vless://658786e5-f302-48e2-b321-f4dc6da2a398@95.163.208.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=g_CJpYLqRg7bpisGdpQ5bt6uajJ-UT7-4HKuvyswiBo&sid=6636127c4ed53779#🇷🇺ГойдаZoV
-vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺ГойдаZoV
-vless://8dc2d7d6-fc93-07d0-a911-e01486357252@109.120.188.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺ГойдаZoV
+vless://8a2d88e1-cd72-07d0-846f-d46c231ebe75@89.208.231.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺ГойдаZoV
